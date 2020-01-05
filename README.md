@@ -37,6 +37,7 @@ There are multiple colors to choose from:
 - `rpl-danger`
 - `rpl-light`
 - `rpl-dark`
+
 Just add one of these to the buttons class list.
 
 ### Additional classes:
