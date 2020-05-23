@@ -7,18 +7,18 @@ Google material button effect for html/css
 
 _link_:
 ```
-<link rel="stylesheet" href="https://yeetcdn.fra1.cdn.digitaloceanspaces.com/gh/ripple-btns/ripple-btns.css">
+<link rel="stylesheet" href="https://yeetcdn.fra1.cdn.digitaloceanspaces.com/git/ripple-btns/ripple-btns.css">
 ```
 _@import_:
 ```
-@import: url('https://yeetcdn.fra1.cdn.digitaloceanspaces.com/gh/ripple-btns/ripple-btns.css');
+@import: url('https://yeetcdn.fra1.cdn.digitaloceanspaces.com/git/ripple-btns/rip0ple-btns.css');
 ```
 
 ### JS:
 
 _script:scr_
 ```
-<script src="https://yeetcdn.fra1.cdn.digitaloceanspaces.com/gh/ripple-btns/ripple-btns.js"></script>
+<script src="https://yeetcdn.fra1.cdn.digitaloceanspaces.com/git/ripple-btns/ripple-btns.js"></script>
 ```
 
 ## Overview:
