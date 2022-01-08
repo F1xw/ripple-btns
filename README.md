@@ -7,22 +7,22 @@ Google material button effect for html/css
 
 _link_:
 ```
-<link rel="stylesheet" href="https://yeetcdn.fra1.cdn.digitaloceanspaces.com/git/ripple-btns/ripple-btns.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/F1xw/ripple-btns@1.0/ripple-btns.css">
 ```
 _@import_:
 ```
-@import: url('https://yeetcdn.fra1.cdn.digitaloceanspaces.com/git/ripple-btns/rip0ple-btns.css');
+@import: url('https://cdn.jsdelivr.net/gh/F1xw/ripple-btns@1.0/ripple-btns.css');
 ```
 
 ### JS:
 
 _script:scr_
 ```
-<script src="https://yeetcdn.fra1.cdn.digitaloceanspaces.com/git/ripple-btns/ripple-btns.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/F1xw/ripple-btns@1.0/ripple-btns.js"></script>
 ```
 
 ## Overview:
-> All buttons can be tested here: https://www.yeetlabs.de/cdn/ripple-btns/
+> All buttons can be tested here: https://f1xw.github.io/ripple-btns/
 
 ### Button configuration:
 For a button to use the ripple effect, add `rpl-btn` to the objects class list.
