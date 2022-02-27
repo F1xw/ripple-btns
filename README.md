@@ -1,5 +1,5 @@
 # ripple-btns
-Google material button effect for html/css
+Google material button effect for your website
 
 ## Installation
 
